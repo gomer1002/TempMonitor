@@ -32,7 +32,8 @@
 *.app
 
 
-# .pio
-# .pio/
-# .vscode/
+.pio
+.vscode
+.pio/
+.vscode/
 
